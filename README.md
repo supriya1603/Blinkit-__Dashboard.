@@ -16,7 +16,9 @@ KPI cards highlighting important metrics
 Interactive slicers for dynamic analysis
 Trend and comparison visualizations
 Clean, structured, and user-friendly layout
+
 🖼 Dashboard Screenshots
 🔹 Overview Dashboard
 
+<img width="1907" height="777" alt="image" src="https://github.com/user-attachments/assets/160beeb8-f143-4328-adf6-1bbe4f01b96d" />
 
